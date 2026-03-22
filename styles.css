@@ -817,6 +817,8 @@ img { display: block; max-width: 100%; }
   .nav-links { display: none; }
   .nav-hamburger { display: flex; }
 
+  .scroll-hint { display: none; }
+
   .hero-inner {
     grid-template-columns: 1fr;
     text-align: center;
